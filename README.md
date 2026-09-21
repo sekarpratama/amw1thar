@@ -3,7 +3,8 @@
 **Nama:** 
 - I Gede Satria Adi Pratama
 - MUHAMAD MATIN ANUGRAH PUJAYANTO
-**Mata Kuliah:** Teori Bahasa dan Automata  
+- **Mata Kuliah:**
+  Teori Bahasa dan Automata  
 **Minggu:** Week 1
 ---
 
