@@ -1,6 +1,8 @@
 # Dokumentasi Bahasa Formal
 
-**Nama:** I Gede Satria Adi Pratama  
+**Nama:** 
+- I Gede Satria Adi Pratama
+- MUHAMAD MATIN ANUGRAH PUJAYANTO 
 **Mata Kuliah:** Teori Bahasa dan Automata  
 **Minggu:** Week 1
 ---
